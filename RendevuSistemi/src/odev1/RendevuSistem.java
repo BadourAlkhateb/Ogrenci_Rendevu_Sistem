@@ -69,6 +69,14 @@ class Ogrenci extends Kisi{
         this.kayityili = kayityili;
         this.numara = numara;
     }
+    public Ogrenci(String bolum, int kayityili, int numara, String ad, String soyad) {
+        eposta="null";
+        telefon="null";
+        super(ad, soyad, eposta, telefon);
+        this.bolum = bolum;
+        this.kayityili = kayityili;
+        this.numara = numara;
+    }
 
     
     public String[][] Getrendevulistesi(){
