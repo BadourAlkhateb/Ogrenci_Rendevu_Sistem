@@ -1,0 +1,8 @@
+Hocam bu program calisabilmesi icin E:\\ 'ye
+bu uc dosya kopyalanmasi gerek
+
+ogrenci.txt
+akademisyem.txt
+rendevu.txt
+
+veritaban yerine kullandim
